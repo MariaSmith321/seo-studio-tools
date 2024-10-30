@@ -40,7 +40,7 @@ High-quality thumbnails are critical for improving click-through rates (CTR), an
 ## Keyword Research Tool
 Identifying high-ranking keywords is essential for improving your site’s Google ranking. The Keyword Research Tool from SEO Studio Tools allows users to find low-competition, high-volume keywords relevant to their niche.
 
-![screenshot](/seostudio.png)
+![seostudio](/seostudio.png)
 
 ## Conclusion
 
